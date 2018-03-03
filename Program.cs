@@ -16,7 +16,7 @@ namespace CursoNeriBasico
         static void Main(string[] args)
         {
             //Declarando variaveis
-            String MyName = "Geisi Ribeiro";
+            String MyName = "Gerc";
             String country = "Brazilian";
             Int16 year = 2018;
 
