@@ -1,0 +1,6 @@
+c:\users\gerc\documents\visual studio 2015\Projects\CompositeMAP\CompositeMAP\bin\Debug\CompositeMAP.exe.config
+c:\users\gerc\documents\visual studio 2015\Projects\CompositeMAP\CompositeMAP\bin\Debug\CompositeMAP.exe
+c:\users\gerc\documents\visual studio 2015\Projects\CompositeMAP\CompositeMAP\bin\Debug\CompositeMAP.pdb
+c:\users\gerc\documents\visual studio 2015\Projects\CompositeMAP\CompositeMAP\obj\Debug\CompositeMAP.csprojResolveAssemblyReference.cache
+c:\users\gerc\documents\visual studio 2015\Projects\CompositeMAP\CompositeMAP\obj\Debug\CompositeMAP.exe
+c:\users\gerc\documents\visual studio 2015\Projects\CompositeMAP\CompositeMAP\obj\Debug\CompositeMAP.pdb
